@@ -1,4 +1,4 @@
-# Dotnet-Webapi-Starter Project
+# Dotnet Webapi Starter Project
 
 A C# .NET Web Api project can be created using the dotnet command line.
 ```shell

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.34929.205
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetServices", "DotNetServices\DotNetServices.csproj", "{91E788BC-1503-40D3-A52F-2A06FC43F948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWebApi", "DotNetWebApi\DotNetWebApi.csproj", "{C05DDA5B-5F0E-42C4-8B00-AC9726443774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWebApi", "DotNetWebApi\DotNetWebApi.csproj", "{C05DDA5B-5F0E-42C4-8B00-AC9726443774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRepositories", "DotNetRepositories\DotNetRepositories.csproj", "{77F91CDD-1804-485F-9430-EC7208E412FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C05DDA5B-5F0E-42C4-8B00-AC9726443774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C05DDA5B-5F0E-42C4-8B00-AC9726443774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C05DDA5B-5F0E-42C4-8B00-AC9726443774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F91CDD-1804-485F-9430-EC7208E412FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F91CDD-1804-485F-9430-EC7208E412FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F91CDD-1804-485F-9430-EC7208E412FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F91CDD-1804-485F-9430-EC7208E412FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

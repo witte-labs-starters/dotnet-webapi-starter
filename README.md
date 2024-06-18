@@ -10,3 +10,7 @@ The above command creates a Web Api project with controllers instead of using th
 The solution follows the Microsoft framework design guidelines that are defined [here](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/).
 
 The [StyleCop.Analyzers](https://www.nuget.org/packages/StyleCop.Analyzers/) package is installed for code analysis.
+
+## Testing
+The Web Api endpoints can be testing using
+[.http files](https://learn.microsoft.com/en-us/aspnet/core/test/http-files).

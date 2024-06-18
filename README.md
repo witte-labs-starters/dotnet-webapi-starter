@@ -1,4 +1,4 @@
-# Dotnet Webapi Starter Project
+# Dotnet Web Api Starter Project
 
 A C# .NET Web Api project can be created using the dotnet command line.
 ```shell
@@ -12,5 +12,5 @@ The solution follows the Microsoft framework design guidelines that are defined 
 The [StyleCop.Analyzers](https://www.nuget.org/packages/StyleCop.Analyzers/) package is installed for code analysis.
 
 ## Testing
-The Web Api endpoints can be testing using
+The api endpoints can be testing using
 [.http files](https://learn.microsoft.com/en-us/aspnet/core/test/http-files).
